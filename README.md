@@ -1,6 +1,9 @@
-### Olá! Eu sou o Bruno Machado
+<div>
+  <h1 align="center">Oi Tudo bem? Eu sou o <>Bruno Machado</i></a> 😃️</h1>
+  <p align="center">Estudo Desenvolvimento Mobile 
+   
+    
 
-- 🔭 Apaixonado por tecnologia
 
 <div align="center">
   <a href="https://github.com/BrunoFmachado">
