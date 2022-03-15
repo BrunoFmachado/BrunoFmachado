@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o Bruno Machado</i></a> 😃️</h1>
- <h2 <p align="center">Estudo Desenvolvimento Mobile  </h2>
+ <h2 <p align="center">Desenvolvedor mobile</h2>
    
     
 
